@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="left"alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <img align="left"alt="machine learning" width="400" src="https://img.freepik.com/premium-photo/cyber-brain-artificial-intelligence-wires-circuit-attached-futuristic-life-generative-ai_849006-316.jpg?w=996"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep1622&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep1622" /> </p>
