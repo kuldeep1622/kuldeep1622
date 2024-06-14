@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="left"alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <img align="left"alt="machine learning" width="400" src="https://img.freepik.com/premium-photo/cyber-brain-artificial-intelligence-wires-circuit-attached-futuristic-life-generative-ai_849006-316.jpg?w=996"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep1622&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep1622" /> </p>
 
 
-- 🔭 I’m currently working on **Image Caption Generator**
+- 🔭 I’m currently Learning **Data Analyst**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Gen AI, LLM's, AI**
 
-- 💬 Ask me about **Python, ML, DL, AI**
+- 💬 Ask me about **Python, ML, Excel, SQL, Power BI**
 
 - 📫 How to reach me **kdydv1622@gmail.com**
 
-- ⚡ Fun fact **Destined to Become a Champion, One Day.**
+- ⚡ Fun fact **Destined to Become a Data Scientist In Neuralink, One Day.**
 - Integrating Humanity and Machines for Enhanced Collaboration
 
 <h3 align="left">Connect with me:</h3>
